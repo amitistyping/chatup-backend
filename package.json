@@ -1,0 +1,23 @@
+{
+  "name": "chatup-backend",
+  "version": "1.0.0",
+  "description": "This is the backend code for a real-time chat application that was created as a part of the FullStack 1 course at NSCC, IT Campus. The application uses Node.js, Express, Socket.io, and MongoDB with Mongoose as the tech stack.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@amit.github.com:amitistyping/chatup-backend.git"
+  },
+  "keywords": [
+    "node.js",
+    "mongodb",
+    "chat-up",
+    "chatup",
+    "chatapp",
+    "nscc"
+  ],
+  "author": "Amit Singh",
+  "license": "ISC"
+}
